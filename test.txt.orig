@@ -5,5 +5,8 @@ test
 test1
 from0
 from 1
+<<<<<<< HEAD
 sadasdasfdsdfsdfsdf
+=======
 sdsadasd
+>>>>>>> 96ab8b265b24d9218e667b3499c6613a57670ef9
